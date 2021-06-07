@@ -1,0 +1,16 @@
+{
+  "name": "V12 Özel Oda Sistemi By Lrows",
+  "version": "1.0.0",
+  "description": "Lrows v12 Özel Oda Sistemi",
+  "main": "Lrows.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Lrows.js"
+  },
+  "author": "lrowsxrd#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "node.js": "0.0.1-security"
+  }
+}
